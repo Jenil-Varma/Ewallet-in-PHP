@@ -1,7 +1,7 @@
 # Prerequisite:
 ->install xampp
 ->import ewallet.sql in xamp
-->put venom floder in C:\xampp\htdocs\
+->put all the files except ewallet.sql in C:\xampp\htdocs\
 
 --------------------------------
 
